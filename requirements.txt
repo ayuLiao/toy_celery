@@ -1,4 +1,4 @@
 Flask==1.0.3
 Jinja2==2.10.1
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 redis==3.2.1
